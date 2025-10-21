@@ -5,7 +5,8 @@
 }
 ul{
 	display:flex;
-	justify-content:space-evenly;
 	list-style:none;
+}
+li{
 	margin-right:1rem;
 }
