@@ -1,12 +1,11 @@
 /*  your css code here. If applicable */
 .container{
-	display:flex;
-	flex-direction:row;
 	background-color:#D3D3D3;
 	padding:10px;
 }
-ul>li{
-	display:inline;
+ul{
+	display:flex;
+	justify-content:space-evenly;
 	list-style:none;
 	margin-right:1rem;
 }
